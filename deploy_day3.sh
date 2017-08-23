@@ -6,4 +6,5 @@ pip install simplejson
 cd ~/Desktop/cleverhans
 git pull
 pip install -e git+http://github.com/tensorflow/cleverhans.git#egg=cleverhans
+cd ~/hitbgsec17-mlsec
 cp spark-mllib-spam.ipynb ~/Desktop/spark
